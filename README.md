@@ -154,7 +154,6 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 ## Contact
 For any questions or suggestions, please contact:
-- **Name**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [YourUsername](https://github.com/yourusername)
+- **Name**: Ayush Juyal
+- **GitHub**: [ayushh-exe](https://github.com/ayushh-exe)
 
