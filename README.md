@@ -29,7 +29,7 @@ Ensure you have the following installed:
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/sign-language-detection.git
+   git clone https://github.com/ayushh-exe/sign-language-detection.git
    cd sign-language-detection
    ```
 2. Install the required dependencies:
